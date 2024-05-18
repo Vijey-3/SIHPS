@@ -18,11 +18,10 @@ The platform will consist of two main parts:
 
 1.Web App: User-facing interface for locating facilities, earning points, and accessing educational content.
 2.Backend System: Manages data on e-waste facilities, user accounts, points, and educational content.
+![Screenshot 2024-05-18 230904](https://github.com/Vijey-3/SIHPS/assets/158477768/efb7ea36-6ee8-4481-8ab8-54a1ff1c501a)
 
 ## Use Cases
-1.Locate E-Waste Facility: User enters their location or allows the app to access geolocation data. The app displays the nearest e-waste collection and recycling facilities.
-2.View Educational Content: User accesses pop-up information or dedicated sections explaining the harmful components of e-waste and their environmental and health impacts if not disposed of properly.
-3.Input Device Model (Optional): User enters the model of their old device. The system estimates the amount of recoverable precious metals and awards points based on this estimation. (Points system can be further developed with rewards or recognition)
+![Screenshot 2024-05-18 231416](https://github.com/Vijey-3/SIHPS/assets/158477768/80c1822a-718c-499d-95e1-68a209792260)
 
 ## Technology Stack
 Frontend: HTML5, CSS3, JavaScript framework (e.g., ReactJS, AngularJS)
